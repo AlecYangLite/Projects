@@ -2,6 +2,7 @@
 
 This repository showcases selected independent research projects in finance, focusing on investment strategies, corporate valuation, and M&A case studies.
 
+
 🏦 Banking Relative Value Strategy (BR Project)
 
 File: Banking_Relative_Value.pdf
@@ -18,6 +19,7 @@ Sector selection: U.S. banking industry (S&P 500 banks)
 Model: Cross-sectional OLS regression on key fundamentals (NIM, CET1, macro factors)
 
 Portfolio construction: Market-neutral long/short strategy with quarterly rebalancing
+
 
 📈 Broadcom’s Acquisition of VMware (BV Project)
 
@@ -40,6 +42,7 @@ DCF valuation and acquisition premium analysis
 EPS accretion modeling and financing breakdown
 
 Risk assessment on integration, regulatory challenges, and market reactions
+
 
 ✨ About
 
