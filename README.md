@@ -42,6 +42,7 @@ EPS accretion modeling and financing breakdown
 Risk assessment on integration, regulatory challenges, and market reactions
 
 ✨ About
+
 Prepared by Jingxuan Yang, CFA in 2025, these projects demonstrate capabilities in financial modeling, sector research, and data-driven investment analysis.
 
 Feel free to explore the files and connect on LinkedIn for further discussions!
