@@ -12,6 +12,7 @@ Scope:
 Sector selection: U.S. banking industry (S&P 500 banks)
 Model: Cross-sectional OLS regression on key fundamentals (NIM, CET1, macro factors)
 Portfolio construction: Market-neutral long/short strategy with quarterly rebalancing
+
 📈 Broadcom’s Acquisition of VMware (BV Project)
 Files:
 Broadcom_VMware.pdf (Full Written Report)
@@ -28,4 +29,5 @@ Risk assessment on integration, regulatory challenges, and market reactions
 ✨ About
 Prepared by Jingxuan Yang, CFA in 2025, these projects demonstrate capabilities in financial modeling, sector research, and data-driven investment analysis.
 Feel free to explore the files and connect on LinkedIn for further discussions!
+
 https://www.linkedin.com/in/jingxuan-yang-b05504183/
