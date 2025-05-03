@@ -43,6 +43,14 @@ EPS accretion modeling and financing breakdown
 
 Risk assessment on integration, regulatory challenges, and market reactions
 
+🔋 Sungrow Power Supply Co., Ltd. Valuation Analysis (Sungrow Project)
+Files:
+
+Sungrow_Valuation.pdf (Full Report)
+
+Sungrow_Valuation.pptx (Presentation Deck)
+
+Description: A comprehensive valuation analysis of Sungrow, a leading player in the solar inverter and energy storage market. The analysis includes DCF and SOTP methodologies, comparing Sungrow’s market valuation to its intrinsic value and highlighting undervaluation. Key segments include solar inverters, energy storage systems, and renewable energy investments.
 
 ✨ About
 
